@@ -97,17 +97,25 @@ The tool operates in three stages:
 
 #### **4. Output Example**
 ```
-### Scanning Directory: https://example.com/some-directory/ ###
-Successfully accessed: https://example.com/some-directory/
+### OS Fingerprinting ###
+Server Header: Apache/2.4.41 (Ubuntu)
+X-Powered-By: PHP/7.4.3
+Target IP: 93.184.216.34
+Detected TTL: 64
+OS Guess: Linux/Unix
+
+### Successfully accessed: https://example.com/ ###
+Files and Directories:
 index.php
-about.html
+contact.php
+login.php
 
 ### Testing Alternative Paths ###
-Successfully accessed: https://example.com/some-directory/index.html
+Successfully accessed: https://example.com/index.html
 index.html
-Failed to access https://example.com/some-directory/.git/. HTTP Status: 404
-```
+Failed to access https://example.com/.git/. HTTP Status: 404
 
+`
 ---
 
 #### **5. Customization**
