@@ -38,9 +38,10 @@ To run the Directory Vulnerability Scanner, ensure the following:
   - `BeautifulSoup` (from `bs4`) for HTML parsing.
   - `requests.auth` for handling HTTP Basic Authentication.
 
-Install the dependencies using:
+Install the dependencies using for linux:
 ```bash
 pip install requests beautifulsoup4
+pip install -U pywebio
 ```
 
 ---
