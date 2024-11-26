@@ -164,6 +164,7 @@ While using this tool:
 - Add multi-threading for faster scanning.
 - Integrate with vulnerability databases (e.g., CVE or OWASP).
 - Support advanced authentication methods (e.g., OAuth, JWT).
+- OS finger printing while scanning
 
 ---
 find the windows version https://diraka.github.io
