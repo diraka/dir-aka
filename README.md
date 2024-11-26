@@ -166,5 +166,5 @@ While using this tool:
 - Support advanced authentication methods (e.g., OAuth, JWT).
 
 ---
-
+find the windows version https://diraka.github.io
 This tool is a starting point for assessing directory vulnerabilities. Use it responsibly to enhance your server’s security posture.
