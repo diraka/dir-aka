@@ -68,6 +68,8 @@ The tool operates in three stages:
 1. **Run the Script**:
    Execute the script in a terminal or command line:
    ```bash
+   cd dir-aka
+   git clone https://github.com/diraka/dir-aka.git
    python diraka.py
    ```
 
