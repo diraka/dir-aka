@@ -68,7 +68,7 @@ The tool operates in three stages:
 1. **Run the Script**:
    Execute the script in a terminal or command line:
    ```bash
-   python directory_scanner.py
+   python diraka.py
    ```
 
 2. **Provide Inputs**:
