@@ -41,7 +41,7 @@ To run the Directory Vulnerability Scanner, ensure the following:
 Install the dependencies using for linux:
 ```bash
 pip install requests beautifulsoup4
-pip install -U pywebio
+
 ```
 
 ---
